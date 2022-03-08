@@ -1,5 +1,5 @@
 function displayTime() {
-    time = new Date('06/23/1999');
+    time = new Date('07/15/1999');
     presentTime = new Date();
     liveTime = presentTime - time;
     year = ( presentTime.getFullYear() - time.getFullYear() );
